@@ -1,1 +1,3 @@
-# e-book-management-system
+# bookshelf-server
+
+Open Source eBook Management Software
